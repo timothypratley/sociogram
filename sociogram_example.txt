@@ -1,0 +1,26 @@
+Sociogram
+Claire, Charlotte, Mikayla, Jesse
+Rowan, Ryan, Devi, Matt
+Toby, Joel, Josiah, Sven
+Alissa, Jesse, Mikayla, Claire
+Jesse, Alissa, Joel, Ryan
+Lily, Amy, Medinella, Sarah Brownlow
+Charlotte, Mikayla, Jesse, Claire
+Zack, Matt, Jayden, Ryan
+Sarah Baty, Tayla, Medinella, Amy
+Dorothy, Devi, Jesse, Ryan
+Matt, Zach, Jayden, Ryan
+Sarah Brownbu, Tayla, Medinella, Sarah Baty
+Mikayla, Alissa, Claire, Charlotte
+Joel, Jesse, Sven, Devi
+Tayla, Sarah Brownlow, Amy, Medinella
+Devshree, Dorothy, Jesse, Alissa
+Sven, Josiah, Joel, Daniel
+Medinella, Sarah Baty, Tayla, Sarah Brownlow
+Rhys, Ryan, Zach, Matt
+Josiah, Sven, Daniel, Toby
+Amy, Lily, Tayla, Sarah Baty
+Jayden, Rhys, Zach, Matt
+Josh, Ryan, Josiah, Tayla
+Ryan, Matt, Jesse, Rowan
+Daniel, Josiah, Jayden, Medinella
